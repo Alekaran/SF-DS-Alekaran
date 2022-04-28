@@ -1,15 +1,15 @@
 # Project 0. Угадай число
 
 ## Оглавление
-[1. Описание проекта] ()
+[1. Описание проекта] (https://github.com/Alekaran/SF-DS-Alekaran/blob/main/project_0/my_game/ReadMe.md#1-%D0%BE%D0%BF%D0%B8%D1%81%D0%B0%D0%BD%D0%B8%D0%B5)
 
-[2. Условия задания] ()
+[2. Условия задания] (https://github.com/Alekaran/SF-DS-Alekaran/blob/main/project_0/my_game/ReadMe.md#2-%D1%83%D1%81%D0%BB%D0%BE%D0%B2%D0%B8%D1%8F-%D0%B7%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D1%8F)
 
-[3. Метрика качества] ()
+[3. Метрика качества] (https://github.com/Alekaran/SF-DS-Alekaran/blob/main/project_0/my_game/ReadMe.md#3-%D0%BC%D0%B5%D1%82%D1%80%D0%B8%D0%BA%D0%B0-%D0%BA%D0%B0%D1%87%D0%B5%D1%81%D1%82%D0%B2%D0%B0)
 
-[4. Что отрабатываем?] ()
+[4. Что отрабатываем?] (https://github.com/Alekaran/SF-DS-Alekaran/blob/main/project_0/my_game/ReadMe.md#4-%D1%87%D1%82%D0%BE-%D0%BF%D1%80%D0%B0%D0%BA%D1%82%D0%B8%D0%BA%D1%83%D0%B5%D0%BC)
 
-[5. Результат] ()
+[5. Результат] (https://github.com/Alekaran/SF-DS-Alekaran/blob/main/project_0/my_game/ReadMe.md#5-%D1%80%D0%B5%D0%B7%D1%83%D0%BB%D1%8C%D1%82%D0%B0%D1%82)
 
 ### 1. Описание
 Компьютер самостоятельно загадывает и отгадывает число
