@@ -1,23 +1,23 @@
 # __Project 1. Анализ вакансий из HeadHunter__
 
 ## __Оглавление__
-[1. Описание проекта](https://github.com/Alekaran/SF-DS-Alekaran/)<br>
+[1. Описание проекта]([https://github.com/Alekaran/SF-DS-Alekaran/](https://github.com/Alekaran/SF-DS-Alekaran/#%D0%BE%D0%BF%D0%B8%D1%81%D0%B0%D0%BD%D0%B8%D0%B5-%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82%D0%B0))<br>
 
-[2. Какой кейс решаем?](https://github.com/Alekaran/SF-DS-Alekaran/blob/main/project_0/my_game/ReadMe.md#2-%D1%83%D1%81%D0%BB%D0%BE%D0%B2%D0%B8%D1%8F-%D0%B7%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D1%8F)<br>
+[2. Какой кейс решаем?](https://github.com/Alekaran/SF-DS-Alekaran/#%D0%BA%D0%B0%D0%BA%D0%BE%D0%B9-%D0%BA%D0%B5%D0%B9%D1%81-%D1%80%D0%B5%D1%88%D0%B0%D0%B5%D0%BC)<br>
 
-[3. Условия задания]()<br>
+[3. Условия задания](https://github.com/Alekaran/SF-DS-Alekaran/#%D1%83%D1%81%D0%BB%D0%BE%D0%B2%D0%B8%D1%8F-%D0%B7%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D1%8F)<br>
 
-[4. Метрика качества]()<br>
+[4. Метрика качества](https://github.com/Alekaran/SF-DS-Alekaran/#%D0%BC%D0%B5%D1%82%D1%80%D0%B8%D0%BA%D0%B0-%D0%BA%D0%B0%D1%87%D0%B5%D1%81%D1%82%D0%B2%D0%B0)<br>
 
-[5. Что практикуем?]()<br>
+[5. Что практикуем?](https://github.com/Alekaran/SF-DS-Alekaran/#%D1%87%D1%82%D0%BE-%D0%BF%D1%80%D0%B0%D0%BA%D1%82%D0%B8%D0%BA%D1%83%D0%B5%D0%BC)<br>
 
-[6. Краткая информация о данных](https://github.com/Alekaran/SF-DS-Alekaran/blob/main/project_0/my_game/)<br>
+[6. Краткая информация о данных](https://github.com/Alekaran/SF-DS-Alekaran/#%D0%BA%D1%80%D0%B0%D1%82%D0%BA%D0%B0%D1%8F-%D0%B8%D0%BD%D1%84%D0%BE%D1%80%D0%BC%D0%B0%D1%86%D0%B8%D1%8F-%D0%B8-%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D1%85)<br>
 
-[7. Этапы работы над проектом](https://github.com/Alekaran/SF-DS-Alekaran/blob/main/project_0/)<br>
+[7. Этапы работы над проектом](https://github.com/Alekaran/SF-DS-Alekaran/#%D1%8D%D1%82%D0%B0%D0%BF%D1%8B-%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%8B-%D0%BD%D0%B0%D0%B4-%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82%D0%BE%D0%BC)<br>
 
-[8. Результат](https://github.com/Alekaran/SF-DS-Alekaran/blob/main/project_0/my_game/)<br>
+[8. Результат](https://github.com/Alekaran/SF-DS-Alekaran/#%D1%80%D0%B5%D0%B7%D1%83%D0%BB%D1%8C%D1%82%D0%B0%D1%82%D1%8B)<br>
 
-[9. Выводы]()<br>
+[9. Выводы](https://github.com/Alekaran/SF-DS-Alekaran/#%D0%B2%D1%8B%D0%B2%D0%BE%D0%B4%D1%8B)<br>
 
 ### __Описание проекта__
 Провести анализ вакансий из HeadHunter
@@ -67,4 +67,4 @@
 ### **Выводы**
 Данные предподготовлены к построению модели
 
-:arrow_up:[к оглавлению](https://github.com/  #Оглавление)
+:arrow_up:[к оглавлению]([https://github.com/](https://github.com/Alekaran/SF-DS-Alekaran/#%D0%BE%D0%B3%D0%BB%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5)#Оглавление)
