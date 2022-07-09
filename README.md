@@ -1,7 +1,7 @@
 # __Project 1. Анализ вакансий из HeadHunter__
 
 ## __Оглавление__
-[1. Описание проекта]([https://github.com/Alekaran/SF-DS-Alekaran/](https://github.com/Alekaran/SF-DS-Alekaran/#%D0%BE%D0%BF%D0%B8%D1%81%D0%B0%D0%BD%D0%B8%D0%B5-%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82%D0%B0))<br>
+[1. Описание проекта](https://github.com/Alekaran/SF-DS-Alekaran/#%D0%BE%D0%BF%D0%B8%D1%81%D0%B0%D0%BD%D0%B8%D0%B5-%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82%D0%B0)<br>
 
 [2. Какой кейс решаем?](https://github.com/Alekaran/SF-DS-Alekaran/#%D0%BA%D0%B0%D0%BA%D0%BE%D0%B9-%D0%BA%D0%B5%D0%B9%D1%81-%D1%80%D0%B5%D1%88%D0%B0%D0%B5%D0%BC)<br>
 
@@ -67,4 +67,4 @@
 ### **Выводы**
 Данные предподготовлены к построению модели
 
-:arrow_up:[к оглавлению]([https://github.com/](https://github.com/Alekaran/SF-DS-Alekaran/#%D0%BE%D0%B3%D0%BB%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5)#Оглавление)
+:arrow_up:[к оглавлению](https://github.com/Alekaran/SF-DS-Alekaran/#%D0%BE%D0%B3%D0%BB%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5)#Оглавление
